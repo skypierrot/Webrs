@@ -40,12 +40,6 @@
 			<showrss:showname>아내의 맛.E50.190611.720p-NEXT</showrss:showname>
 		</item>
 		<item>
-			<title>아내의 맛.E50.190611.720p-NEXT.mp4</title>
-			<link>magnet:?xt=urn:btih:33643F52C5EEECB3D2453F0FF0CE917BA1005068</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>아내의 맛.E50.190611.720p-NEXT.mp4</showrss:showname>
-		</item>
-		<item>
 			<title>나는 몸신이다.E231.190611.720p-NEXT</title>
 			<link>magnet:?xt=urn:btih:F6E028AA3696890622DB0490207B312DD0499BC6</link>
 			<showrss:showid></showrss:showid>
@@ -452,6 +446,12 @@
 			<link>magnet:?xt=urn:btih:E1123D38DF166677B8F75F436322350B7F80EBC3</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>나 혼자 산다.E297.190607.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>부라더 시스터.E02.190607.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:B4AC1FECF182A9B07736E9C1B1ECD399F98770A7</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>부라더 시스터.E02.190607.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
