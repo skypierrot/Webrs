@@ -16,12 +16,6 @@
 			<showrss:showname>현지에서 먹힐까 미국편.E10.190620.720p NEXT.mp4</showrss:showname>
 		</item>
 		<item>
-			<title>해피투게더 4.E37.190620.720p-NEXT</title>
-			<link>magnet:?xt=urn:btih:DC5D13131FB6E4AA9666E13AEEF2B7E6A6D023DD</link>
-			<showrss:showid></showrss:showid>
-			<showrss:showname>해피투게더 4.E37.190620.720p-NEXT</showrss:showname>
-		</item>
-		<item>
 			<title>해피투게더 4.E37.190620.720p-NEXT.mp4</title>
 			<link>magnet:?xt=urn:btih:DC5D13131FB6E4AA9666E13AEEF2B7E6A6D023DD</link>
 			<showrss:showid></showrss:showid>
@@ -452,6 +446,12 @@
 			<link>magnet:?xt=urn:btih:BBD8C7BF119C7092D3EDB51B70101759BA60CC50</link>
 			<showrss:showid></showrss:showid>
 			<showrss:showname>장학퀴즈-학교에 가다.E1089.190616.720p-NEXT</showrss:showname>
+		</item>
+		<item>
+			<title>쉘위치킨.E06.190616.720p-NEXT</title>
+			<link>magnet:?xt=urn:btih:EF02CFD5ACDA877D3600FB16EA332D565C482950</link>
+			<showrss:showid></showrss:showid>
+			<showrss:showname>쉘위치킨.E06.190616.720p-NEXT</showrss:showname>
 		</item>
 	</channel>
 </rss>
